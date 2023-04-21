@@ -1,0 +1,36 @@
+{
+    "name": "True Match",
+    "short_name": "True Match",
+    "scope": "/true_match_build/",
+    "start_url": "/true_match_build/",
+    "display": "standalone",
+    "background_color": "#ff3b5b",
+    "theme_color": "#ff3b5b",
+    "description": "True Match App for Gillian Movie",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
